@@ -3,8 +3,8 @@ from tkinter import *
 
 
 def send_mail():
-    my_email = "parshavcodes@gmail.com"
-    my_password = "uydmuosxthakfjaj"
+    my_email = "YOUR MAIL"
+    my_password = "YOUR PASSWORD"
     email = email_entry.get()
     subject = subject_entry.get()
     message = message_entry.get("1.0", END)
