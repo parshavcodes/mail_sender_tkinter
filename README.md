@@ -1,5 +1,3 @@
-Here's a more detailed version of your GitHub project description:
-
 ---
 
 # Mail Sender Tkinter
@@ -16,17 +14,22 @@ This is a simple Python application built with Tkinter that allows you to send e
 
 To set up the Mail Sender Tkinter application, follow these steps:
 
-1. **No additional external libraries required:** Since smtplib and tkinter are part of the standard library.
-    
+1. **Clone the Repository:** Clone this repository to your local machine using:
+    ```bash
+    git clone <repository-url>
+    ```
 
+2. **Ensure Python is Installed:** Make sure you have Python installed on your system. You can download it from [python.org](https://www.python.org/).
 
-4. **Update Credentials:** Open the `main.py` file and replace `"YOUR MAIL"` and `"YOUR PASSWORD"` with your own Gmail credentials.
+3. **Update Credentials:** Open the `main.py` file and replace `"YOUR MAIL"` and `"YOUR PASSWORD"` with your own Gmail credentials.
 
-5. **Run the Application:** Execute the `main.py` file to start the application:
+4. **Run the Application:** Execute the `main.py` file to start the application:
     ```bash
     python main.py
     ```
 
+No additional libraries need to be installed as the required modules (`smtplib` and `tkinter`) are part of the Python Standard Library.
+
 ---
 
-This detailed description provides clear instructions on setting up and using your Mail Sender Tkinter application. Let me know if there's anything else you'd like to add or modify!
+This description clearly indicates that no additional libraries need to be installed and provides clear instructions for setting up and running the application. Let me know if there's anything else you'd like to add or modify!
