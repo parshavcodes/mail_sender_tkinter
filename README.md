@@ -31,5 +31,3 @@ To set up the Mail Sender Tkinter application, follow these steps:
 No additional libraries need to be installed as the required modules (`smtplib` and `tkinter`) are part of the Python Standard Library.
 
 ---
-
-This description clearly indicates that no additional libraries need to be installed and provides clear instructions for setting up and running the application. Let me know if there's anything else you'd like to add or modify!
